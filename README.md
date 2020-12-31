@@ -1,5 +1,5 @@
 # gpx-to-csv
-Designed to take a GPX file and output a CSV file that contains the name, date, length (in miles or kilometers), elevation (in meters or feet), total time and moving time of all the tracks in the GPX file. 
+Designed to take a GPX file and output a CSV file that contains the name, date, length (in miles or kilometers), elevation (in meters or feet), total time and moving time of all the tracks in the GPX file. Build it so it would work with Gaia GPS files but it should work for every GPX.
 ## Pre-reqs
 Requires ``gpxpy`` which you can install with ``pip``.
 ## Usage
